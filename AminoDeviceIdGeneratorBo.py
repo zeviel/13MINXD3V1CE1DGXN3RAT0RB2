@@ -10,13 +10,8 @@ init()
 print(Back.BLACK)
 print(Fore.GREEN)
 print(Style.NORMAL)
-print("""Script by Zevi/Скрипт сделан Zevi
-┌────────────────────────────────────┐
-│Author :  LilZevi                   │
-│Github : https://github.com/LilZevi │
-└────────────────────────────────────┘
-YouTube: https://www.youtube.com/channel/UCJ61JlXJckmO6yJr8BDRuGQ
-Telegram: @NowNameBo
+print("""Script by Lil Zevi
+Github : https://github.com/LilZevi
 ▄▀▄ █▄░▄█ ▀ █▄░█ ▄▀▄ █▀▄ █▀▀ ▐▌░▐▌ ▀ ▄▀ █▀▀ ▀ █▀▄
 █▀█ █░█░█ █ █░▀█ █░█ █░█ █▀▀ ░▀▄▀░ █ █░ █▀▀ █ █░█
 ▀░▀ ▀░░░▀ ▀ ▀░░▀ ░▀░ ▀▀░ ▀▀▀ ░░▀░░ ▀ ░▀ ▀▀▀ ▀ ▀▀░
