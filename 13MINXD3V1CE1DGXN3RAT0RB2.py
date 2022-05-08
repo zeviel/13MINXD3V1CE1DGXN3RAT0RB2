@@ -7,7 +7,7 @@ from colorama import init, Fore, Style; init()
 print(Fore.GREEN + Style.NORMAL)
 print("""Script by deluvsushi
 Github : https://github.com/deluvsushi""")
-print(figlet_format("aminodeviceidgeneratorbo", font="bell"))
+print(figlet_format("13MINXD3V1CE1DGXN3RAT0RB2", font="bell"))
 
 def deviceID_generator(hwid: str):
     return "01" + (identifier := sha1(hwid.encode("utf-8"))).hexdigest() + sha1(bytes.fromhex("01") + identifier.digest() + base64.b64decode("6a8tf0Meh6T4x7b0XvwEt+Xw6k8=")).hexdigest()
