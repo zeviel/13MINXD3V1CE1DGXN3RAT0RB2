@@ -1,5 +1,5 @@
-# AminoDeviceIdGeneratorBo
-old deviceID generator that starts with 01 for amino
+# 13MINXD3V1CE1DGXN3RAT0RB2
+DeviceID generator for amino that starts with 01
 
 ## Termux
 ```shell
@@ -9,7 +9,7 @@ old deviceID generator that starts with 01 for amino
 - pip install progress
 - pip install colorama
 - pip install pyfiglet
-- git clone https://github.com/deluvsushi/AminoDeviceIdGeneratorBo
-- cd AminoDeviceIdGeneratorBo.py
-- python AminoDeviceIdGeneratorBo.py
+- git clone https://github.com/deluvsushi/13MINXD3V1CE1DGXN3RAT0RB2
+- cd 13MINXD3V1CE1DGXN3RAT0RB2
+- python 13MINXD3V1CE1DGXN3RAT0RB2.py
 ```
